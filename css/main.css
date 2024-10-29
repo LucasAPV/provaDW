@@ -1,0 +1,12 @@
+#imgCont{
+    width: 100v2;
+    height: 10vh;
+
+    display: flex;
+    justify-content: flex-end;
+}
+
+#imgCont img{
+    height: 100%;
+    border-radius: 100%;
+}
